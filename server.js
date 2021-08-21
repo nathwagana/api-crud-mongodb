@@ -9,4 +9,4 @@ app.use(bodyParser.urlencoded({ extended: false}));
 
 app.listen(3000);
 app.use(routes);
-console.log("Application is listening port 5000")
+console.log("Application is listening port 3000")
