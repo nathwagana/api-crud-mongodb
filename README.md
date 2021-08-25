@@ -55,7 +55,7 @@ https://documenter.getpostman.com/view/17182739/TzzDJa2G
 Projeto desenvolvido por Nath Wagana. Se quiser saber mais sobre mim ou entrar em contato, acesse meu LinkedIn clicando abaixo.
 
 <a href="https://github.com/nathwagana">
-<a href="https://www.linkedin.com/in/nathaliarioswagana/" target="_blank"><img height="30" width="30" src="https://im6.ezgif.com/tmp/ezgif-6-7dda21616c22.gif" target="_blank"></a>
+<a href="https://www.linkedin.com/in/nathaliarioswagana/" target="_blank"><img height="35" width="35" src="https://i.ibb.co/31BLQyW/ezgif-4-9a6adf682a3e.gif" target="_blank"></a>
 
 </br>
 </br>
@@ -117,4 +117,4 @@ https://documenter.getpostman.com/view/17182739/TzzDJa2G
 Project developed by Nath Wagana. If you want know more about me or get in touch, access my LinkedIn by clicking in the .gif bellow.
 
 <a href="https://github.com/nathwagana">
-<a href="https://www.linkedin.com/in/nathaliarioswagana/" target="_blank"><img height="30" width="30" src="https://im6.ezgif.com/tmp/ezgif-6-7dda21616c22.gif" target="_blank"></a>
+<a href="https://www.linkedin.com/in/nathaliarioswagana/" target="_blank"><img height="35" width="35" src="https://i.ibb.co/31BLQyW/ezgif-4-9a6adf682a3e.gif" target="_blank"></a>
